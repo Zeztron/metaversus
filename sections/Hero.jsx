@@ -44,7 +44,6 @@ const Hero = () => (
             />
           </div>
         </a>
-        47
       </motion.div>
     </motion.div>
   </section>
